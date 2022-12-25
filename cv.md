@@ -22,7 +22,7 @@
 ## Certificates
 
 - Professional SCRUM Master\
-  ![img|320x271](https://static.scrum.org/web/badges/badge-psmi.svg){: width="50%"}
+  <img src="https://static.scrum.org/web/badges/badge-psmi.svg" width="100">
 
 - ISTQB® Certified Tester Foundation Level (CTFL)\
   ![](https://images.credly.com/size/340x340/images/12c64ffc-c5af-4be8-8fdc-8de91879be44/Brightest_CTFL.png){: width=200px}
