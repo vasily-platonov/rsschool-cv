@@ -22,13 +22,13 @@
 ## Certificates
 
 - Professional SCRUM Master
-  [](https://static.scrum.org/web/badges/badge-psmi.svg)
+  ![](https://static.scrum.org/web/badges/badge-psmi.svg)
 
 - ISTQB® Certified Tester Foundation Level (CTFL)
-  [](https://images.credly.com/size/340x340/images/12c64ffc-c5af-4be8-8fdc-8de91879be44/Brightest_CTFL.png)
+  ![](https://images.credly.com/size/340x340/images/12c64ffc-c5af-4be8-8fdc-8de91879be44/Brightest_CTFL.png)
 
 - SAS Certified Specialist: Base Programming Using SAS 9.4
-  [](https://images.credly.com/size/340x340/images/caa44bb1-cd83-44ad-bb28-5784e6a7a95a/new_certification_badge_image.png)
+  ![](https://images.credly.com/size/340x340/images/caa44bb1-cd83-44ad-bb28-5784e6a7a95a/new_certification_badge_image.png)
 
 - Microsoft Certified: Azure Fundamentals
-  [](https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)
+  ![](https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)
