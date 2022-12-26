@@ -45,7 +45,7 @@ This is the example of POM for one of my automation project in Trivago
 
 ## Work experience
 
-**Trivago**, Dusseldorf - _QA engineer_
+**Trivago**, Dusseldorf - _QA engineer_\
 _May 2021 - now_
 
 Work in Brand and Retention team to test and support of development of such features:
@@ -55,12 +55,12 @@ Work in Brand and Retention team to test and support of development of such feat
 - Development of test automation frameworks for both application mentioned above
 - Development of test automation scenarios for the main applicaton [](https://www.trivago.com/)
 
-**Agilecode.io**, Remote - _QA engineer_
+**Agilecode.io**, Remote - _QA engineer_\
 _November 2020 - March 2021_
 
 Work in the international team on the development of the FinTech WEB-application as a functional tester.
 
-**Accenture Latvia**, Riga, Latvie -_Analyst, QA Engineer_
+**Accenture Latvia**, Riga, Latvie -_Analyst, QA Engineer_\
 _March 2019 - October 2020_
 
 Work in the international team on the development of the insurance system WEB-application as a functional tester.
