@@ -32,3 +32,26 @@
 
 - Microsoft Certified: Azure Fundamentals\
   <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="100">
+
+## Work experience
+
+**Trivago**, Dusseldorf - _QA engineer_
+_May 2021 - now_
+
+Work in Brand and Retention team to test and support of development of such features:
+
+- New athorization application for internal and external use [](https://auth.trivago.com)
+- Chealse FC partner giveaways site [](https://www.trivago.co.uk/chelseafc/)
+- Development of test automation frameworks for both application mentioned above
+- Development of test automation scenarios for the main applicaton [](https://www.trivago.com/)
+
+**Agilecode.io**, Remote - _QA engineer_
+_November 2020 - March 2021_
+
+Work in the international team on the development of the FinTech WEB-application as a functional tester.
+
+**Accenture Latvia**, Riga, Latvie -_Analyst, QA Engineer_
+_March 2019 - October 2020_
+
+Work in the international team on the development of the insurance system WEB-application as a functional tester.
+Also, work in BI capability group in the position of the visualization developer and Scrum Master. Provide Scrum process for 4 teams.
