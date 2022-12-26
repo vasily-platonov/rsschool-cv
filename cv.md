@@ -6,6 +6,12 @@
 **Email:** hellorwin@yandex.ru
 **Telegram:** @hellorwin
 
+## Short self description
+
+I'm 35. I has a diploma of Relay protection and automation engineer issued by [Ivanovo State power university](http://eng.ispu.ru/).
+I switched to IT in 2019 when I joined [Accenture Latvia](https://www.accenture.com/lv-en/about/company/about-latvia) after finalizing Accenture bootcamp for PMO and BI engineers as a BI engineer.
+Now I'm working as a QA engineer in Trivago, but I would like to study front-end engineering.
+
 ## Skills
 
 - Functional testing of WEB-application: API, UI
