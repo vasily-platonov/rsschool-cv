@@ -25,6 +25,10 @@ Now I'm working as a QA engineer in Trivago, but I would like to study front-end
 - Localization of bugs and bug reporting
 - Scrum master skills: servant-leader for the Scrum Team, communication with Product owners and customers
 
+## Code example
+
+This is the example of POM for one of my automation project in Trivago
+
 ## Certificates
 
 - Professional SCRUM Master\
@@ -61,3 +65,17 @@ _March 2019 - October 2020_
 
 Work in the international team on the development of the insurance system WEB-application as a functional tester.
 Also, work in BI capability group in the position of the visualization developer and Scrum Master. Provide Scrum process for 4 teams.
+
+## Edication
+
+**ANO DPO “Yandex School of Data Analysis”, Moscow, Russia** - QA engineer
+_April 2020 - October 2020_
+
+**Ivanovo State Power University, Ivaonovo, Russia** - Relay protection and automation engineer
+_September 2004 - June 2009_
+
+## Languages
+
+**English** - Upper-intermediate
+**German** - Basic
+**Russian** - Native
