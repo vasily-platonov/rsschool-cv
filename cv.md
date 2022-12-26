@@ -2,8 +2,8 @@
 
 ## Location and contacts
 
-**City:** Dusseldorf, Germany
-**Email:** hellorwin@yandex.ru
+**City:** Dusseldorf, Germany\
+**Email:** hellorwin@yandex.ru\
 **Telegram:** @hellorwin
 
 ## Short self description
@@ -78,4 +78,4 @@ _September 2004 - June 2009_
 
 **English** - Upper-intermediate\
 **German** - Basic\
-**Russian** - Native\
+**Russian** - Native
