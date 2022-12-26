@@ -27,7 +27,52 @@ Now I'm working as a QA engineer in Trivago, but I would like to study front-end
 
 ## Code example
 
-This is the example of POM for one of my automation project in Trivago
+This is the example of POM (page object model) for one of my automation project in Trivago:
+
+```
+import { Page, Locator } from '@playwright/test';
+
+export class RegisterPage {
+  readonly page: Page;
+
+  // Selectors
+
+  private REGISTER_PAGE_PASSWORD_INPUT = '[data-testid="password-strength-input"]';
+  private REGISTER_PAGE_CREATE_ACCOUNT_BUTTON = '[data-testid="register-submit-button"]';
+
+  // Locators
+
+  eleRegisterPagePasswordInput: Locator;
+  eleRegisterPageCreateAccountButton: Locator;
+
+  // Constructor
+
+  constructor(page: Page) {
+    this.page = page;
+
+    this.eleRegisterPagePasswordInput = page.locator(this.REGISTER_PAGE_PASSWORD_INPUT);
+    this.eleRegisterPageCreateAccountButton = page.locator(this.REGISTER_PAGE_CREATE_ACCOUNT_BUTTON);
+  }
+
+  // Methods
+
+  /**
+   * This method is used to fill the password input field on the register page
+   * @param password Password to be filled in the input field
+   */
+  public async fillPasswordInput(password: string) {
+    await this.eleRegisterPagePasswordInput.click();
+    await this.eleRegisterPagePasswordInput.fill(password);
+  }
+
+  /**
+   * This method is used to click the "Create account" button on the register page
+   */
+  public async clickCreateAccountButton() {
+    await this.eleRegisterPageCreateAccountButton.click();
+  }
+}
+```
 
 ## Certificates
 
@@ -68,10 +113,10 @@ Also, work in BI capability group in the position of the visualization developer
 
 ## Education
 
-**ANO DPO “Yandex School of Data Analysis”, Moscow, Russia** - QA engineer
+**ANO DPO “Yandex School of Data Analysis”, Moscow, Russia** - QA engineer\
 _April 2020 - October 2020_
 
-**Ivanovo State Power University, Ivaonovo, Russia** - Relay protection and automation engineer
+**Ivanovo State Power University, Ivaonovo, Russia** - Relay protection and automation engineer\
 _September 2004 - June 2009_
 
 ## Languages
