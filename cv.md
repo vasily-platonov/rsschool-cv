@@ -60,7 +60,7 @@ _November 2020 - March 2021_
 
 Work in the international team on the development of the FinTech WEB-application as a functional tester.
 
-**Accenture Latvia**, Riga, Latvie -_Analyst, QA Engineer_\
+**Accenture Latvia**, Riga, Latvia -_Analyst, QA Engineer_\
 _March 2019 - October 2020_
 
 Work in the international team on the development of the insurance system WEB-application as a functional tester.
