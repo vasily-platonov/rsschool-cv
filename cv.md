@@ -76,6 +76,6 @@ _September 2004 - June 2009_
 
 ## Languages
 
-**English** - Upper-intermediate
-**German** - Basic
-**Russian** - Native
+**English** - Upper-intermediate\
+**German** - Basic\
+**Russian** - Native\
